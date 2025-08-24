@@ -1,0 +1,9 @@
+[theme]
+primaryColor="#0F62FE"
+backgroundColor="#F4F4F4"
+secondaryBackgroundColor="#FFFFFF"
+textColor="#161616"
+font="IBM Plex Sans, sans-serif"
+
+[server]
+showAnchorLinks = false
